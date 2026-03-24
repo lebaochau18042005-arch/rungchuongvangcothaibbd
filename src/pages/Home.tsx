@@ -25,7 +25,7 @@ export default function Home() {
 
           {/* Author */}
           <p className="text-sm text-slate-400 mb-10">
-
+            Được thiết kế bởi <span className="text-white font-medium">Thái Lê · Bình Phú · Bình Dương</span>
           </p>
           
           <div className="space-y-4">
